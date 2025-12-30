@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.so
+.DS_Store
+
+# Data and Models (exclude large files)
+data/
+models/
+images/catboost_info/
+src/catboost_info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
