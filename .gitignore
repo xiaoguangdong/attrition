@@ -11,9 +11,7 @@ build/
 *.so
 .DS_Store
 
-# Data and Models (exclude large files)
-data/
-models/
+# Large files to exclude (but not data and models)
 images/catboost_info/
 src/catboost_info/
 
